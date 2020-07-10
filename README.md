@@ -1,4 +1,4 @@
-Hey there 👋🏼
+## Hey there 👋🏼
 
 I'm a full-stack developer from Toronto, Canada 
 
